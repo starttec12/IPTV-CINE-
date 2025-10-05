@@ -117,3 +117,6 @@ function abrirWhatsConfirm(){
 
 </body>
 </html>
+<img src="images/filme1.jpg" alt="Filme 1">
+<img src="images/filme2.jpg" alt="Filme 2">
+<img src="images/filme3.jpg" alt="Filme 3">
