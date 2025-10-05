@@ -39,29 +39,29 @@
 </nav>
 
 <div class="container" id="filmesContainer">
-  <!-- Cards de filmes, imagens reais do site Cinemateca podem ser substituídas -->
+  <!-- Cards de filmes usando pasta local 'images' -->
   <div class="card">
-    <img src="https://www.cinemateca.com.br/images/filme1.jpg" alt="Filme 1">
+    <img src="images/filme1.jpg" alt="Filme 1">
     <h3>Filme 1</h3>
     <button class="btn" onclick="gerarPix('Básico - 2 Telas','19.99')">Assinar R$19,99</button>
   </div>
   <div class="card">
-    <img src="https://www.cinemateca.com.br/images/filme2.jpg" alt="Filme 2">
+    <img src="images/filme2.jpg" alt="Filme 2">
     <h3>Filme 2</h3>
     <button class="btn" onclick="gerarPix('Básico - 3 Telas','39.99')">Assinar R$39,99</button>
   </div>
   <div class="card">
-    <img src="https://www.cinemateca.com.br/images/filme3.jpg" alt="Filme 3">
+    <img src="images/filme3.jpg" alt="Filme 3">
     <h3>Filme 3</h3>
     <button class="btn" onclick="gerarPix('Trimestral - 2 Telas','49.99')">Assinar R$49,99</button>
   </div>
   <div class="card">
-    <img src="https://www.cinemateca.com.br/images/filme4.jpg" alt="Filme 4">
+    <img src="images/filme4.jpg" alt="Filme 4">
     <h3>Filme 4</h3>
     <button class="btn" onclick="gerarPix('Semestral - 2 Telas','99.99')">Assinar R$99,99</button>
   </div>
   <div class="card">
-    <img src="https://www.cinemateca.com.br/images/filme5.jpg" alt="Filme 5">
+    <img src="images/filme5.jpg" alt="Filme 5">
     <h3>Filme 5</h3>
     <button class="btn" onclick="gerarPix('Anual - 3 Telas','230.00')">Assinar R$230,00</button>
   </div>
@@ -117,6 +117,3 @@ function abrirWhatsConfirm(){
 
 </body>
 </html>
-<img src="images/filme1.jpg" alt="Filme 1">
-<img src="images/filme2.jpg" alt="Filme 2">
-<img src="images/filme3.jpg" alt="Filme 3">
